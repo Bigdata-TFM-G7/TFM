@@ -9,3 +9,10 @@ lista
 # Array 1
 array1 <- array(1:24, dim=c(4,3,2))
 array1
+
+#Array 2
+c <- c(2,3,45,3)
+d <- c(3,4,5,1)
+#multiplicacion
+e <-c*d
+e
