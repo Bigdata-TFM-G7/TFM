@@ -8,7 +8,7 @@ _Master of BIG DATA & BUSINESS ANALYTICS (2020 ed)._
 
 _UNIVERSIDAD COMPLUTENSE DE MADRID._
 
-![2020](TFM/images/Master_Logo.png)
+![2020](images/Master_Logo.png)
 
 __AUTHORS__:
 Ainhoa Rodrigo Bolea (ainhoa2612@gmail.com)
