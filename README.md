@@ -4,9 +4,9 @@ Repository of the work research to the Final Master Thesis.
 
 __NLP DECEITFUL REVIEW DETECTION ON E-COMMERCE AND SOCIAL MEDIA__
 
-_Master of BIG DATA & BUSINESS ANALYTICS (2020 ed)._ 
+__Master of BIG DATA & BUSINESS ANALYTICS (2020 ed).__
 
-_UNIVERSIDAD COMPLUTENSE DE MADRID._
+__UNIVERSIDAD COMPLUTENSE DE MADRID.__
 
 ![2020](images/Master_Logo.png)
 
