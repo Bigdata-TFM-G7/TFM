@@ -17,7 +17,7 @@ Alejandra Lloret Calvo (alejandralloretc@gmail.com)
 
 Cristian Fernando Rodríguez Saldarriaga (c.fernandoro@gmail.com)
 
-Juan Pablo Guerrero Ortiz (Jguerror41@gmail.com)
+Juan Pablo Guerrero Ortiz (jguerror41@gmail.com)
 
 Laura Débora Fernández Basquero (ldfernandez09@gmail.com)
 
