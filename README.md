@@ -8,13 +8,18 @@ _Master of BIG DATA & BUSINESS ANALYTICS (2020 ed)._
 
 _UNIVERSIDAD COMPLUTENSE DE MADRID._
 
-![2020](/master/images/Master_Logo.png)
+![2020](TFM/images/Master_Logo.png)
 
 __AUTHORS__:
 Ainhoa Rodrigo Bolea (ainhoa2612@gmail.com)
+
 Alejandra Lloret Calvo (alejandralloretc@gmail.com)
+
 Cristian Fernando Rodríguez Saldarriaga (c.fernandoro@gmail.com)
+
 Juan Pablo Guerrero Ortiz (Jguerror41@gmail.com)
+
 Laura Débora Fernández Basquero (ldfernandez09@gmail.com)
+
 Marta Roig Atienza (martaroigatienza@hotmail.com)
 
