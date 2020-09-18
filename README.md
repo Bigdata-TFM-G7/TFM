@@ -8,7 +8,7 @@ __Master of BIG DATA & BUSINESS ANALYTICS (2020 ed).__
 
 __UNIVERSIDAD COMPLUTENSE DE MADRID.__
 
-![2020](images/Master_Logo.png)
+![2020](images/Goods_logo.png)
 
 __AUTHORS__:
 
