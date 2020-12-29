@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "cells": [
+    {
+      "type": "cs",
+      "input": "assist"
+    },
+    {
+      "type": "cs",
+      "input": "getModels"
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"XGBoost_1_AutoML_20200915_111018\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY_GLM_1\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY_GLM_3\""
+    },
+    {
+      "type": "cs",
+      "input": "getModels"
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY__5\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY__9\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY__5\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY__1\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY__3\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"CATEGORY__7\""
+    }
+  ]
+}

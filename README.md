@@ -1,13 +1,26 @@
-# TFM
-Repositorio para trabajo fin de máster Big Data UCM.
+# TFM_BigData
 
-Seguir las siguientes instrucciones:
+Repository of the work research to the Final Master Thesis.
 
-1. Instalar Git
-2. Abrir la configuración de Git y escribir en la consola:
-  
-  $ git config --global user.name "nombre apellido"
-  
-  $ git config --global user.email "correo@gmail.com"
+__NLP DECEITFUL REVIEW DETECTION ON E-COMMERCE AND SOCIAL MEDIA__
 
-3.
+__Master of BIG DATA & BUSINESS ANALYTICS (2020 ed).__
+
+__UNIVERSIDAD COMPLUTENSE DE MADRID.__
+
+![2020](images/Goods_logo.png)
+
+__AUTHORS__:
+
+Ainhoa Rodrigo Bolea (ainhoa2612@gmail.com)
+
+Alejandra Lloret Calvo (alejandralloretc@gmail.com)
+
+Cristian Fernando Rodríguez Saldarriaga (c.fernandoro@gmail.com)
+
+Juan Pablo Guerrero Ortiz (jguerror41@gmail.com)
+
+Laura Débora Fernández Basquero (ldfernandez09@gmail.com)
+
+Marta Roig Atienza (martaroigatienza@hotmail.com)
+

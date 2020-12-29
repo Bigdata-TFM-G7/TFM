@@ -1,0 +1,21 @@
+-----
+emoji               0.6.0
+en_core_web_sm      2.2.0
+gensim              3.8.3
+ipykernel           5.1.4
+nltk                3.4.5
+numpy               1.18.1
+pandas              1.0.1
+pattern             3.6
+sinfo               0.3.1
+sklearn             0.22.1
+spacy               2.2.0
+tabulate            0.8.7
+textblob            0.15.3
+-----
+IPython             7.12.0
+jupyter_client      5.3.4
+jupyter_core        4.6.1
+jupyterlab          1.2.6
+notebook            6.0.3
+-----
