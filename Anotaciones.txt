@@ -1,0 +1,23 @@
+A partir del Notebook Limpio
+ 1. Preprocesado: Las comas, signos y stopwords.
+ 2. Pesos revisarlo mirando como los pasas. Sofisticar los pesos de las palabras y no en función de su peso relativo.
+ 3. Como dividir entre Train y Test (No lo hace el codigo)
+ 3. Otro Modelo de clasificación.
+ 4. Feature Engineering: Lemmanatization*, TF-IDF, word2VEC, stemming*, wordNet,N-gram, POS, investigar sobre tecnicas de feature engineering.
+ 
+ 
+ ###########################################################
+ 
+Estructura Algoritmo NLP - Ejemplo Deception
+ 
+ ###########################################################
+ 
+ 1. Cargar librerias
+ 2. Definir valores de la variable Objetivo: FAKE / REAL , POSITVO / NEGATIVO
+ 3. Limpieza y ordenamiento del dataset. 
+ 4. EDA. Exploración y análisis de las palabras
+ 5. TOKENIZACION de las palabras. Métodos para tokenizar. GENSIM, BAG OF WORDS.	 
+ 6. Valorar la aplicación de cualquier método de validación cruzada: Preparar ambos set de datos
+ 7. Classifier: Bajo el modelo que se aplica, se clasifican las labels de cada linea de texto y se valida contra la verdad
+ 8. Análisis de Resultados
+
