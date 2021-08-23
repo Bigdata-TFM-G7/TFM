@@ -13,5 +13,5 @@ xgboost==1.1.1
 IPython==7.13.0
 jupyter_client==6.1.0
 jupyter_core==4.6.1
-jupyterlab==1.1.4
+jupyterlab==1.2.21
 notebook==6.1.1
